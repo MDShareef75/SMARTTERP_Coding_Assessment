@@ -1,0 +1,1 @@
+# SMARTTERP_coding_assessment
